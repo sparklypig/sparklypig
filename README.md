@@ -1,1 +1,1 @@
-I'm Sterling, a software engineer in my last year of my degree. I like building microcontroller projects, learning new (programming) languages, and music!
+I'm Sterling, a software engineer with a degree in computer science. I like building microcontroller projects, learning new (programming) languages, and music!
